@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi
+
+People are used to tell lies but code never does.
 
 <!--
 **chihwun/chihwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
