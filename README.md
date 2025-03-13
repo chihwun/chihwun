@@ -1,6 +1,4 @@
-## Hi
-
-People are used to tell lies but code never does.
+ 人是种丑陋的生物，以制服看不顺眼的人为乐的残酷生物。所以不自觉地为了讨人喜欢而伪装自己，为了在这个集体中生存下去全副武装。这可能也很重要，但我希望你们不要忘了，人也是为了正义的存在而努力的美丽生物。 --《Legal High》
 
 <!--
 **chihwun/chihwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
