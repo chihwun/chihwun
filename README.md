@@ -1,6 +1,4 @@
-## Hi
-
-People are used to tell lies but code never does.
+人生は一度きりだから、生まれ変わるなら、生きてるうちに
 
 <!--
 **chihwun/chihwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
