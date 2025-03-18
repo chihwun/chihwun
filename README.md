@@ -1,4 +1,4 @@
-人生は一度きりだから、生まれ変わるなら、生きてるうちに
+人生はたった 1 度きり。けれど、しっかりと生きたなら 1 度で十分
 
 <!--
 **chihwun/chihwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
